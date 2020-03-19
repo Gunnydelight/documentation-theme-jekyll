@@ -87,8 +87,8 @@ entries:
         url: /truegold-shuffle.html
         output: web, pdf
 
-      - title: SOON! Vial of the Sands shuffle
-        url:
+      - title: Vial of the Sands shuffle
+        url: /vial-of-the-sands-shuffle.html
         output: web, pdf
 
         subfolders:
@@ -139,10 +139,6 @@ entries:
 
     - title: SOON! Trillium Bar shuffle
       url:
-      output: web, pdf
-
-    - title: Vial of the Sands shuffle
-      url: /vial-of-the-sands-shuffle.html
       output: web, pdf
 
       subfolders:
