@@ -141,6 +141,10 @@ entries:
       url:
       output: web, pdf
 
+    - title: Vial of the Sands shuffle
+      url: /vial-of-the-sands-shuffle.html
+      output: web, pdf
+
       subfolders:
         - title: Popular MOP Shuffles
           output: web
