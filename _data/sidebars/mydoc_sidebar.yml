@@ -79,6 +79,24 @@ entries:
               url:
               output: web
 
+  - title: WOW WOTLK Shuffles
+    output: web, pdf
+    folderitems:
+
+    - title: SOON! Titanium Bar shuffle
+      url:
+      output: web, pdf
+
+      subfolders:
+        - title: Popular WOTLK Shuffles
+          output: web
+          subfolderitems:
+
+            - title: Content Soon!
+              url:
+              output: web
+
+
   - title: WOW Cataclysm Shuffles
     output: web, pdf
     folderitems:
@@ -99,24 +117,7 @@ entries:
               - title: Content Soon!
                 url:
                 output: web
-
-  - title: WOW WOTLK Shuffles
-    output: web, pdf
-    folderitems:
-
-    - title: SOON! Titanium Bar shuffle
-      url:
-      output: web, pdf
-
-      subfolders:
-        - title: Popular WOTLK Shuffles
-          output: web
-          subfolderitems:
-
-            - title: Content Soon!
-              url:
-              output: web
-
+                
   - title: WOW MOP Shuffles
     output: web, pdf
 
