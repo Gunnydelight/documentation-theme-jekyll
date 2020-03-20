@@ -2,7 +2,7 @@
 title: MOP - Vial of the Sands Shuffle
 keywords:
 last_updated: March 18, 2020
-tags: [example]
+tags: [shuffle]
 summary: "This WOW shuffle is to explain and understand profit ranges for Vials of the Sands crafters. What are some mats to focus on buying cheap, where at ways to bring down the crafting cost to increase profits."
 sidebar: mydoc_sidebar
 permalink: /vial-of-the-sands-shuffle.html

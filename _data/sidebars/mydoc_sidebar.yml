@@ -109,6 +109,10 @@ entries:
         url: /vial-of-the-sands-shuffle.html
         output: web, pdf
 
+      - title: Mekgineer's Chopper shuffle
+        url: /mekingeers-chopper-shuffle.html
+        output: web, pdf
+
         subfolders:
           - title: Popular Cataclsym Shuffles
             output: web
@@ -117,7 +121,7 @@ entries:
               - title: Content Soon!
                 url:
                 output: web
-                
+
   - title: WOW MOP Shuffles
     output: web, pdf
 
