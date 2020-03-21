@@ -159,6 +159,10 @@ entries:
     output: web, pdf
 
     folderitems:
+    - title: Depleted Kyparium Rocket shuffle
+      url: /depleted-kyparium-rocket-shuffle.html
+      output: web, pdf
+
     - title: SOON! WOD Alchemy shuffle
       url:
       output: web, pdf
