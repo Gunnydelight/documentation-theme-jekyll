@@ -54,7 +54,7 @@ In order to be able to do this shuffle, you must do the following:
 ```
 
 ## Tips and Tricks
-When doing this farms, be aware of the following:
+When doing this shuffle, be aware of the following:
 
 * No cooldown #Enjoy!
 * Be a [Transmute Master](https://www.wowhead.com/quest=29482/transmutation-master). This will allow you to proc extra **Primal Mights**.

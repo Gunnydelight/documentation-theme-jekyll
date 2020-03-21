@@ -64,13 +64,11 @@ In order to be able to do this shuffle, you must do the following:
 ```
 
 ## Tips and Tricks
-When doing this shuffle:
+When doing this shuffle, be aware of:
 
-```
-1. Look for opportunities to buy in bulk. Trade Channel advertise macros for items involved in the shuffle will help increase profit
-2. R3, R3, R3, R3 for the bracer shuffle
-3. Get the required mats in order to do the tailor, bs or lw shuffle
-```
+* Look for opportunities to buy in bulk. Trade Channel advertise macros for items involved in the shuffle will help increase profit
+* R3, R3, R3, R3 for the bracer shuffle
+* Get the required mats in order to do the tailor, bs or lw shuffle
 
 ## Reference Links
 [WoW Economy thread](https://www.reddit.com/r/woweconomy/comments/aqk37l/the_bracer_super_shuffle/)

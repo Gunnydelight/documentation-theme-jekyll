@@ -44,7 +44,7 @@ In order to be able to do this shuffle, you must do the following:
 ```
 
 ## Tips and Tricks
-When doing this farms, be aware of the following:
+When doing this shuffle, be aware of the following:
 
 * Free skill-up from **205-245** while making gold doing this shuffle.
 * Craft what you want, walk away to come back to bag full of **vendoring items**.

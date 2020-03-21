@@ -91,13 +91,15 @@ In order to be able to do this shuffle, you must do the following:
 
 
 ## Tips and Tricks
-When doing this farms, be aware the more **alts** you have, the more this gold farm method ramps up in gold earning potential. You can still absolutely earn gold with this not being an alt army, it just won't be as much but profits still exist.
+When doing this farms, be aware the more the following:
 
-For **alt armies**, I noticed I am making so much stacks of flasks that I begun selling **Anchor Weed** stacks. Can do that or just save them for later if you'd like.
+* The more **alts** you have, the more this gold farm method ramps up in gold earning potential. You can still absolutely earn gold with this not being an alt army, it just won't be as much but profits still exist.
 
-Periodically throughout the day scan the action house for the BFA Herbs cheap as those mats are required for the Daily Anchor Weed CD.
+* For **alt armies**, I noticed I am making so much stacks of flasks that I begun selling **Anchor Weed** stacks. Can do that or just save them for later if you'd like.
 
-Ensure you possess and leverage **Sila's Potion of Prosperity** with **Rank 3** Flask cooldowns
+* Periodically throughout the day scan the action house for the BFA Herbs cheap as those mats are required for the Daily Anchor Weed CD.
+
+* Ensure you possess and leverage **Sila's Potion of Prosperity** with **Rank 3** Flask cooldowns
 {% include image.html file="bfa-silas-potion-of-prosperity.png" caption="Use Silas' Sphere of Transmutation until this item procs, then begin crafting" %}
 
 ## Reference Links

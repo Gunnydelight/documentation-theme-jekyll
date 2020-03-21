@@ -15,7 +15,7 @@ folder: wow-shuffles
 ## Google Sheets calculator
 I am sharing my **Google Sheets** _(Excel.xls)_ to allow users to manipulate and pivot data as it varies server to server here:
 
-[Google Sheet Spreadsheet](https://docs.google.com/spreadsheets/d/1B5kob9knNn89wM7z9xbWvcxG3zqfbYPeficE7hA3gVo/edit?usp=sharing)
+[Mozzletoff's Google Spreadsheet](https://docs.google.com/spreadsheets/d/1B5kob9knNn89wM7z9xbWvcxG3zqfbYPeficE7hA3gVo/edit?usp=sharing)
 
 ## What can you earn
 
@@ -52,11 +52,13 @@ In order to be able to do this shuffle, you must do the following:
 ```
 
 ## Tips and Tricks
-To change your Alchemy specialization (_e.g., from Elixir or Potions to Transmutation_), open the professions window and click the small red circle to the left of the specialization (_NOT the profession skill level_). Then do the applicable quest for the specialization you want.
+When doing this shuffle, be aware of the following:
 
-The more alts you stack, the more daily CDs you have. There is a snow ball effect component that allows you to separate yourself from the competition.
+* To change your Alchemy specialization (_e.g., from Elixir or Potions to Transmutation_), open the professions window and click the small red circle to the left of the specialization (_NOT the profession skill level_). Then do the applicable quest for the specialization you want.
 
-Ensure to check the price of [Spirit of Harmony](https://www.wowhead.com/item=76061/spirit-of-harmony) to understand if Riddle of Steel or Daily CD is the better option here. Usually Riddle of Steel is cheaper cost. Check the prices first before doing!
+* The more alts you stack, the more daily CDs you have. There is a snow ball effect component that allows you to separate yourself from the competition.
+
+* Ensure to check the price of [Spirit of Harmony](https://www.wowhead.com/item=76061/spirit-of-harmony) to understand if Riddle of Steel or Daily CD is the better option here. Usually Riddle of Steel is cheaper cost. Check the prices first before doing!
 
 ## Reference Links
 [Google Sheet Spreadsheet](https://docs.google.com/spreadsheets/d/1B5kob9knNn89wM7z9xbWvcxG3zqfbYPeficE7hA3gVo/edit?usp=sharing)

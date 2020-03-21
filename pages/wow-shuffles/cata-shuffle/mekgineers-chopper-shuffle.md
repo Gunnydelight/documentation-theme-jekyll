@@ -57,7 +57,7 @@ In order to be able to do this shuffle, you must do the following:
 ```
 
 ## Tips and Tricks
-When doing this farms, be aware of the following:
+When doing this shuffle, be aware of the following:
 
 * Try to save yourself cost of mats by farming the **Titansteels** in bulk.
 * **Scan the AH** constantly for cheaper than normal mats
