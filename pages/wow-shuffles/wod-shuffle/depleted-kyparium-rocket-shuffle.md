@@ -10,7 +10,7 @@ folder: wow-shuffles
 ---
 
 # Overview
-{% include tip.html content="You can earn roughly _(dependant on region & server)_ between X and Y amount of profit each flip."%}
+{% include tip.html content="You can earn regular incoming making mounts in general, this one included. You'll need to stay competitve in the market buy either getting the mats cheaper OR farming them yourself!"%}
 
 ## Google Sheets calculator
 I am sharing my **Google Sheets** _(Excel.xls)_ to allow users to manipulate and pivot data as it varies server to server here:
