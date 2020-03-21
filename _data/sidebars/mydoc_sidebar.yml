@@ -163,6 +163,10 @@ entries:
       url: /depleted-kyparium-rocket-shuffle.html
       output: web, pdf
 
+    - title: Geosynchronous World Spinner shuffle
+      url: /geosynchronous-world-spinner.html
+      output: web, pdf
+
     - title: SOON! WOD Alchemy shuffle
       url:
       output: web, pdf
