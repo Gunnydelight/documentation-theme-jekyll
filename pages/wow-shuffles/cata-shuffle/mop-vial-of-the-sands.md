@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=uI7p9rj0548.
 ```
 
 ## Tips and Tricks
-When doing this farms, be aware of the following:
+When doing this shuffle, be aware of the following:
 
 * You may be able to save some gold going out and farming in bulk the **Flasks** required for the **Vial of the Sands mount**. Any edge against your competitors buying straight mats, you'll be in a more favorable position!
 * Unlock **WOD Archeology** and over time, you can casually earn **Restored Artifacts** for **Mantid Jars**.

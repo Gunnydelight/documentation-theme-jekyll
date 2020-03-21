@@ -51,7 +51,7 @@ In order to be able to do this shuffle, you must do the following:
 [YouTube Video walk-through](https://youtu.be/ftGsUBHkZ70)
 
 ## Tips and Tricks
-When doing this farms, be aware of:
+When doing this shuffle, be aware of:
 
 * Be sensitive to prices of **Herbs** on your server. Cheaper you can get, the more profit you can earn. **Scan AH frequently.**
 * You can sell the **mats raw** in **neat stacks** (5,10s,25s etc) or craft with enchanting if more profit.

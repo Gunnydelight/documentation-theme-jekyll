@@ -59,7 +59,7 @@ In order to be able to do this shuffle, you must do the following:
 ```
 
 ## Tips and Tricks
-When doing this farms, be aware of the following:
+When doing this shuffle, be aware of the following:
 
 * **Panthers** are generally a saturated market... Be ready to not post Panthers if the markets disp to an unprofitable margin based off your preference. You can do this manually or update your **TSM Auction Op** to not post at that threshold.
 * Do the **Daily quests** to earn Panthers easily and casually. You can see some of those details [here](https://youtu.be/egzXdQd1G7s)
