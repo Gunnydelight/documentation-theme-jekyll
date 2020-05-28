@@ -65,10 +65,15 @@ When doing this farms, be aware of the following:
 
 * Max **MOP Engineering** before trying to earn the **Schematic**. It won't drop now like it did on release at 1 engineering.
 * **Scan the Auction** daily for cheap **Ghost Iron Ore & Bars**, **Trillium ore and bars**, **Living Steel**. There are rare times I can buy in bulk, essentially restocking more daily cooldowns to continues the factory.
+* Scan regularly for cheap Spirits of Harmony. You can go to the Spirit of Harmony vendor. The Alliance trader is Krystel, while Danky works for the Horde.
 * Check out The Lazy Goldmakers write up for Maximizing Profit with Living Steel [here](https://thelazygoldmaker.com/maximizing-profit-living-steel).
 * Alts armies are your friend here! The more alts with engineers is one Sky Golem a month as long as you can keep up with the mat requirements! As an alt o holic, this is one of the reasons that this is my favorite. Steady consistent gold with my alts with no effort once leveled with this MOP profession.
-*
+
 ## Reference Links
 [The Lazy Goldmaker - Maximizing Profit w/ Living Steels](https://thelazygoldmaker.com/maximizing-profit-living-steel)
 
 [Daily Cooldown macro for Quality of Life alt improvement](https://www.reddit.com/r/woweconomy/comments/8mx4y9/wod_cds_shortcuts_this_will_make_your_daily_wow/)
+
+[Alliance Spirit of Harmony Vendor - Krystel](https://www.wowhead.com/npc=66678/krystel)
+
+[Horde Spirit of Harmony vendor - Danky](https://www.wowhead.com/npc=66685/danky)
