@@ -138,8 +138,8 @@ entries:
       url:
       output: web, pdf
 
-    - title: Ghost Iron (Gems) shuffle
-      url: /mop-ghost-iron-gems-shuffle.html
+    - title: Ghost Iron, Kyparite and Trillium Ore shuffle
+      url: /mop-ore-shuffle.html
       output: web, pdf
 
     - title: SOON! Trillium Bar shuffle
