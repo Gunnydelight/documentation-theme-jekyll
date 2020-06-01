@@ -142,8 +142,8 @@ entries:
       url: /mop-ore-shuffle.html
       output: web, pdf
 
-    - title: SOON! Trillium Bar shuffle
-      url:
+    - title: Trillium Bar shuffle
+      url: /mop-trillium-bar-shuffle.html
       output: web, pdf
 
       subfolders:
