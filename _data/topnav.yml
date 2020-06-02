@@ -48,12 +48,22 @@ topnav_dropdowns:
           external_url: https://www.twitch.tv/canadia_tv
         - title: FarmerTru (MB)
           external_url: https://www.twitch.tv/farmertru
+        - title: Kittymowwmow (MB)
+          external_url: https://www.twitch.tv/kittymowwmow
+        - title: Movie1011 (MB)
+          external_url: https://www.twitch.tv/movie1011
         - title: Persephonae (MB)
           external_url: https://www.twitch.tv/persephonae
+        - title: Simply Suzu (MB)
+          external_url: https://www.twitch.tv/simplysuzu
+        - title: Rafipi (MB)
+          external_url: https://www.twitch.tv/Rafipi
         - title: Ridosaw (MB)
           external_url: https://www.twitch.tv/Ridosaw
         - title: SkitzYoTV (MB)
           external_url: https://www.twitch.tv/skitzyotv
+        - title: Smesus
+          external_url: https://www.twitch.tv/smesus
         - title: Spiety (MB)
           external_url: https://www.twitch.tv/speity
         - title: WTBGold (MB)
@@ -64,7 +74,9 @@ topnav_dropdowns:
           external_url: https://www.twitch.tv/baconbits078
         - title: BregsVids
           external_url: https://www.twitch.tv/BregVids
-        - title: The Lazy Goldfarmer
+        - title: Ellelaith
+          external_url: https://www.twitch.tv/ellelaith
+        - title: The Lazy Goldmaker
           external_url: https://www.twitch.tv/lazygoldmaker
         - title: ProfitzTV (LAC creator)
           external_url: https://www.twitch.tv/profitztv
@@ -76,6 +88,8 @@ topnav_dropdowns:
           external_url: https://www.twitch.tv/studenalbatroz
         - title: Tr4xindus
           external_url: https://www.twitch.tv/tr4xindus
+        - title: WOWTumaka
+          external_url: https://www.twitch.tv/wowtumaka
 
     - title: YT Creators
       folderitems:
@@ -87,10 +101,14 @@ topnav_dropdowns:
           external_url: https://www.youtube.com/bregvids
         - title: CanadianTV
           external_url: https://www.youtube.com/channel/UCxgzYGsphDNNMQd0KfKGnHA
+        - title: Dala GG
+          external_url: https://www.youtube.com/channel/UCBWE80KzTUR-DIUDJMU-mFQ
         - title: Hikons
           external_url: https://www.youtube.com/channel/UCg-zFvILTJJGDyx2PDCSmKw
         - title: KomLit
           external_url: https://www.youtube.com/user/KomLit
+        - title: Kraken Latte
+          external_url: https://www.youtube.com/user/KibaVahnGoth
         - title: LonMeasley
           external_url: https://youtube.com/channel/UCjThCEnBRpZUfmG6zmJS12A
         - title: Meraki's Method
