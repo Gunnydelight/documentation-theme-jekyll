@@ -134,8 +134,8 @@ entries:
       url: mop-sky-golem-shuffle.html
       output: web, pdf
 
-    - title: SOON! Panther Mounts shuffle
-      url:
+    - title: Panther Mounts shuffle
+      url: /mop-panther-mount-shuffle.html
       output: web, pdf
 
     - title: Ghost Iron, Kyparite and Trillium Ore shuffle
