@@ -1,5 +1,5 @@
 ---
-title: Cataclsym  - Truegold Shuffle
+title: Cata - Truegold Shuffle
 keywords: truegold
 last_updated: March 15, 2020
 tags: [cataclsym, truegold, shuffle, alchemy, transmute]

@@ -1,6 +1,6 @@
 ---
-title: Cataclsym - Mekgineer's Chopper Shuffle
-keywords: mounts, cataclsym, chopper
+title: WOTLK - Mekgineer's Chopper Shuffle
+keywords: mounts, wotlk, chopper
 last_updated: March 21, 2020
 tags: [shuffle]
 summary: "This WOW shuffle is to explain how to print money crafting Mekgineer's Chopper via this shuffle"
@@ -50,7 +50,7 @@ In order to do this shuffle you must:
 In order to be able to do this shuffle, you must do the following:
 
 ```
-1.  Get exalted with **Alliance Vanguard**.
+1.  Get exalted with Alliance Vanguard.
 2.  Go to Roxi Ramrocket: https://www.wowhead.com/npc=31247/roxi-ramrocket to buy the vendor required mats which cost 12,500g.
 3.  Farm or buy the remaining mats off the Auction House.
 4.  Craft! Craft! Craft!
@@ -60,7 +60,8 @@ In order to be able to do this shuffle, you must do the following:
 When doing this shuffle, be aware of the following:
 
 * Try to save yourself cost of mats by farming the **Titansteels** in bulk.
-* **Scan the AH** constantly for cheaper than normal mats
+* [Transmute Mastery](https://www.wowhead.com/quest=29482/transmutation-master) will allow cost savings for making Titanium Bars.
+* **Scan the AH** constantly for cheaper than normal mats.
 * You at times can find the vendor mats on the AH cheaper than what the vendor sells them for. Make sure to check it out!
 * Employing these methods to cheapen the cost to make increases your markets and if your on an aggressive market, allows you to post lower than your competitors.
 

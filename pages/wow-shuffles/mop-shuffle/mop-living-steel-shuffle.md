@@ -5,7 +5,7 @@ last_updated: December 13, 2019
 tags: [shuffles, mop]
 summary: "This WOW shuffle is to answer Yes or No to this question... is it worth buying the mats off the Auction House to make Transmute: Living Steel Bars or Riddle Of Steel CD? If so, at what cost and what profit?"
 sidebar: mydoc_sidebar
-permalink: mop-living-steel-shuffle.html
+permalink: /mop-living-steel-shuffle.html
 folder: wow-shuffles
 ---
 
