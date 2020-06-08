@@ -5,7 +5,7 @@ last_updated: May 24, 2020
 tags: [mop, engineering]
 summary: "This WOW shuffle is to understand the cost break down from doing one of my personal favorite shuffles, the Sky Golem shuffle"
 sidebar: mydoc_sidebar
-permalink: mop-sky-golem-shuffle.html
+permalink: /mop-sky-golem-shuffle.html
 folder: wow-shuffles
 ---
 

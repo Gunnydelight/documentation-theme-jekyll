@@ -54,7 +54,9 @@ In order to be able to do this shuffle, you must do the following:
 ## Tips and Tricks
 When doing this shuffle, be aware of the following:
 
-*The more alts you stack, the more **Daily CDs** you have. There is a snow ball effect component that allows you to separate yourself from the competition.
+* Ensure to check the Auction House daily for cheap mats.
+* You can always farm mats if not enough capital to invest in purchasing. 
+* Ensure you are a [Transmute Master](https://www.wowhead.com/quest=29482/transmutation-master) in order to take advantage of increasing your profit margins.
 
 ## Reference Links
 [Mozzletoff's Arcanite shuffle Spreadsheet](https://docs.google.com/spreadsheets/d/1EX9yDrzNjS3ifxrR7VoW6P9kgmO_b62hBN5aroInymI/edit?usp=sharing)

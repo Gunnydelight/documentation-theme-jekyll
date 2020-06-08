@@ -1,5 +1,5 @@
 ---
-title: MOP - Vial of the Sands Shuffle
+title: Cata - Vial of the Sands Shuffle
 keywords:
 last_updated: March 18, 2020
 tags: [shuffle]
@@ -64,6 +64,7 @@ When doing this shuffle, be aware of the following:
 * You may be able to save some gold going out and farming in bulk the **Flasks** required for the **Vial of the Sands mount**. Any edge against your competitors buying straight mats, you'll be in a more favorable position!
 * Unlock **WOD Archeology** and over time, you can casually earn **Restored Artifacts** for **Mantid Jars**.
 * Recipe is RNG to drop... don't be discouraged but just keep farming for it. it will eventually drop!
+* Be an [Elixir Master](https://www.wowhead.com/quest=29481/elixir-master) to bring down mat costs in this heavy competition markets.
 
 ## Reference Links
 [Canadia_TV's Google Sheets Calculator](https://docs.google.com/spreadsheets/d/1NLZs6mjxo_Wo8O_HZvLkRFERlnH-tmbWlil9E8cf_Pc/edit?usp=sharing)
