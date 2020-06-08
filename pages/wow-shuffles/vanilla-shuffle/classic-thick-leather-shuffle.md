@@ -1,5 +1,5 @@
 ---
-title: Vanilla - Thick Leather Vendor Shuffle
+title: Classic - Thick Leather Vendor Shuffle
 keywords:
 last_updated: Mar 15, 2020
 tags: [example]

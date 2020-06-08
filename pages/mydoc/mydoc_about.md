@@ -10,8 +10,9 @@ folder: mydoc
 ---
 
 ## **Quick Intro**
-My name is **Derric Bartholomew** aka **Mozzletoff**. I am a Husband and Father of 3 first. We currently live in the US on the east coast in Richmond VA. Previously, we're from south NJ right outside of Philly. We moved down to VA for school and stayed for the jobs.
-<br>
+My name is **Derric Bartholomew** aka **Mozzletoff**. I am a Husband and Father of 3 first. 
+We currently live in the US on the east coast in Richmond VA. Previously, we're from south NJ right outside of Philly. 
+We moved down to VA for school and stayed for the jobs.
 <br>
 
 ## **What kicked off gaming for you Mozz?**
