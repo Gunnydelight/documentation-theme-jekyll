@@ -43,13 +43,13 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Arcanite Bar shuffle
+    - title: Vanilla - Arcanite Bar shuffle
       url: /vanilla-arcanite-bar-shuffle.html
       output: web, pdf
       type:
 
     - title: Classic - Thick Leather vendor shuffle
-      url: //thick-leather-vendor-shuffle.html
+      url: /thick-leather-vendor-shuffle.html
       output: web, pdf
       type:
 
@@ -85,10 +85,6 @@ entries:
 
     - title: Mekgineer's Chopper shuffle
       url: /mekingeers-chopper-shuffle.html
-      output: web, pdf
-
-    - title: SOON! Titanium Bar shuffle
-      url:
       output: web, pdf
 
     - title: SOON! Titanium Bar shuffle
@@ -276,11 +272,23 @@ entries:
     output: web, pdf
 
     folderitems:
+    - title: Samadan's Super Bracer Shuffle
+      url: /bfa-bracer-shuffle.html
+      output: web, pdf
+
+    - title: Anchor Weed shuffle
+      url: /bfa-anchor-weed-shuffle.html
+      output: web, pdf
+
+    - title: Veiled Crystals via Inscription
+      url: /bfa-inscription-veiled-shuffle.html
+      output: web, pdf
+
     - title: SOON! BFA Alchemy shuffle
       url:
       output: web, pdf
 
-    - title: SSOON! BFA Blacksmith shuffle
+    - title: SOON! BFA Blacksmith shuffle
       url:
       output: web, pdf
 
@@ -318,18 +326,6 @@ entries:
 
     - title: SOON! BFA Expulsom shuffle
       url:
-      output: web, pdf
-
-    - title: Samadan's Super Bracer Shuffle
-      url: /bfa-bracer-shuffle.html
-      output: web, pdf
-
-    - title: Anchor Weed shuffle
-      url: /bfa-anchor-weed-shuffle.html
-      output: web, pdf
-
-    - title: Veiled Crystals via Inscription
-      url: /bfa-inscription-veiled-shuffle.html
       output: web, pdf
 
       #    - title: Git collaboration
@@ -370,15 +366,11 @@ entries:
     output: web
     folderitems:
 
-    - title: SOON! Multibox x5 and x8 | Group farm Overview
+    - title: SOON! Introduction for Multibox | Group farm Overview
       url:
       output: web
 
     - title: SOON! Nazmir - Alliance Tul'vor MB Spot
-      url:
-      output: web
-
-    - title: SOON! Vol'Dun - Crater of Conq MB Spot
       url:
       output: web
 
@@ -408,5 +400,13 @@ entries:
     folderitems:
 
       - title: Soon! Intro for Pet Solo/Group farms
+        url:
+        output: web
+
+  - title: Mount Goldfarms
+    output: web
+    folderitems:
+
+      - title: Soon! Intro for Mount goldfarms
         url:
         output: web
