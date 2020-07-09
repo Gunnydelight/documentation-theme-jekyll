@@ -162,6 +162,10 @@ entries:
       url: /mop-trillium-bar-shuffle.html
       output: web, pdf
 
+    - title: MOP Gems shuffle
+      url: /mop-gem-shuffle.html
+      output: web, pdf
+
       subfolders:
         - title: Popular MOP Shuffles
           output: web
