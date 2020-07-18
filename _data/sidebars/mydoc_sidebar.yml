@@ -179,6 +179,18 @@ entries:
     output: web, pdf
 
     folderitems:
+    - title: Sorcerous Earth shuffle
+      url: /sorcerous-earth-shuffle.html
+      output: web, pdf
+
+    - title: SOON! Card of Omens shuffle
+      url:
+      output: web, pdf
+
+    - title: SOON! WOD Alchemy Trinket vendor shuffle
+      url:
+      output: web, pdf
+
     - title: SOON! WOD Alchemy shuffle
       url:
       output: web, pdf
@@ -220,15 +232,15 @@ entries:
           output: web
           subfolderitems:
 
-            - title: SOON! Sorcerous Earth shuffle
+            - title:
               url:
               output: web
 
-            - title: SOON! Card of Omens shuffle
+            - title:
               url:
               output: web
 
-            - title: SOON! WOD Alchemy Trinket vendor shuffle
+            - title:
               url:
               output: web
 
