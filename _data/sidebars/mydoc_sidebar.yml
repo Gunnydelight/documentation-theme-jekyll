@@ -183,8 +183,8 @@ entries:
       url: /sorcerous-earth-shuffle.html
       output: web, pdf
 
-    - title: SOON! Card of Omens shuffle
-      url:
+    - title: Card of Omens shuffle
+      url: /card-of-omens-shuffle.html
       output: web, pdf
 
     - title: SOON! WOD Alchemy Trinket vendor shuffle
