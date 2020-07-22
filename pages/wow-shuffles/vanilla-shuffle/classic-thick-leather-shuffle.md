@@ -29,7 +29,6 @@ In order to do this shuffle you must:
 
 * Get Leatherworking profession.
 * Be skill 205 in order to craft [Nightscape Tunic](https://classic.wowhead.com/spell=10499/nightscape-tunic).
-* Leveling your LW Profession to 245 in order to craft [Nightscape Tunic](https://classic.wowhead.com/spell=10499/nightscape-tunic).
 * Get Honoured with the Vendor Faction you are purchasing [Silken Thread](https://classic.wowhead.com/item=4291/silken-thread) from.
 * Purchase Thick Leather for less than **7s 24c** each for a vendor profit.
 
