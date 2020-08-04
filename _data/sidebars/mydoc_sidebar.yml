@@ -59,7 +59,7 @@ entries:
       type:
 
       subfolders:
-        - title: Popular Classic Shuffles
+        - title: Vanilla - Profession Shuffle Pages
           output: web
           subfolderitems:
 
@@ -76,7 +76,7 @@ entries:
       output: web, pdf
 
       subfolders:
-        - title: Popular BC Shuffles
+        - title: BC - Profession Shuffle Page
           output: web
           subfolderitems:
 
@@ -97,7 +97,7 @@ entries:
       output: web, pdf
 
       subfolders:
-        - title: Popular WOTLK Shuffles
+        - title: WOTLK - Profession Shuffle Page
           output: web
           subfolderitems:
 
@@ -122,7 +122,7 @@ entries:
         output: web, pdf
 
         subfolders:
-          - title: Popular Cataclsym Shuffles
+          - title: Cata - Profession Shuffle Page
             output: web
             subfolderitems:
 
@@ -167,7 +167,7 @@ entries:
       output: web, pdf
 
       subfolders:
-        - title: Popular MOP Shuffles
+        - title: MOP - Profession Shuffle Page
           output: web
           subfolderitems:
 
@@ -191,56 +191,12 @@ entries:
       url: /wod-alchemy-trinket-vendor-shuffle.html
       output: web, pdf
 
-    - title: SOON! WOD Alchemy shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! WOD Blacksmithing shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! WOD Enchanting shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! WOD Engineering shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! WOD Inscription shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! WOD Jewelcrafting shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! Leatherworking shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! WOD Tailoring shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! WOD Cooking shuffle
-      url:
-      output: web, pdf
-
       subfolders:
-        - title: Popular WOD Shuffles
+        - title: WOD - Profession Shuffle Page
           output: web
           subfolderitems:
 
-            - title:
-              url:
-              output: web
-
-            - title:
-              url:
-              output: web
-
-            - title:
+            - title: Content Soon!
               url:
               output: web
 
@@ -248,40 +204,12 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: SOON! Legion Alchemy shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! Legion Blacksmith shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! Legion Enchanting shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! Legion Engineering shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! Legion Inscription shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! Legion Leatherworking shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! Legion Tailoring shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! Legion Cooking shuffle
+    - title: Pending Content soon!
       url:
       output: web, pdf
 
       subfolders:
-        - title: Popular Legion Shuffles
+        - title: Legion - Profession Shuffle Page
           output: web
           subfolderitems:
 
@@ -305,46 +233,6 @@ entries:
       url: /bfa-inscription-veiled-shuffle.html
       output: web, pdf
 
-    - title: SOON! BFA Alchemy shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Blacksmith shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Cooking shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Enchanting shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Engineering shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Engineering shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Inscription shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Tailoring shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Leatherworking shuffle
-      url:
-      output: web, pdf
-
-    - title: SOON! BFA Jewelcrafting shuffle
-      url:
-      output: web, pdf
-
     - title: SOON! BFA Expulsom shuffle
       url:
       output: web, pdf
@@ -354,11 +242,55 @@ entries:
 #      output: web, pdf
 
       subfolders:
-        - title: Popular BFA Shuffles
+        - title: BFA - Profession Shuffle Page
           output: web
           subfolderitems:
 
             - title: Content Soon!
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Alchemy shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Blacksmith shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Cooking shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Enchanting shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Engineering shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Engineering shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Inscription shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Tailoring shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Leatherworking shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Jewelcrafting shuffle
+              url:
+              output: web, pdf
+
+            - title: SOON! BFA Expulsom shuffle
               url:
               output: web, pdf
 
@@ -391,19 +323,27 @@ entries:
       url:
       output: web
 
-    - title: SOON! Nazmir - Alliance Tul'vor MB Spot
+    - title: SOON! Nazmir - Alliance Tul'vor
       url:
       output: web
 
-    - title: SOON! Vol'Dun - Crater of Conq MB Spot
+    - title: SOON! Vol'Dun - Crater of Conq
       url:
       output: web
 
-    - title: SOON! Stormsong Valley - Mariner's Strand MB Spot
+    - title: SOON! Stormsong Valley - Mariner's Strand
       url:
       output: web
 
-    - title: SOON! Stormsong Valley - Boat/x 4x4 MB Spot
+    - title: SOON! Stormsong Valley - Boat/x 4x4
+      url:
+      output: web
+
+    - title: SOON! Drustvar - Boars 2x4 Farm
+      url:
+      output: web
+
+    - title: SOON! Nazjatar 2x4 Farm
       url:
       output: web
 
