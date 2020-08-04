@@ -187,8 +187,8 @@ entries:
       url: /card-of-omens-shuffle.html
       output: web, pdf
 
-    - title: SOON! WOD Alchemy Trinket vendor shuffle
-      url:
+    - title: Alchemy Trinket vendor shuffle
+      url: /wod-alchemy-trinket-vendor-shuffle.html
       output: web, pdf
 
     - title: SOON! WOD Alchemy shuffle
