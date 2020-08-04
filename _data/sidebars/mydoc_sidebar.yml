@@ -367,3 +367,11 @@ entries:
       - title: Soon! Intro for Mount goldfarms
         url:
         output: web
+
+  - title: Goldfarm Helpful websites
+    output: web
+    folderitems:
+
+      - title: Soon! Helpful URLs
+        url:
+        output: web
