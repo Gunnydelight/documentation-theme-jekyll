@@ -92,10 +92,6 @@ entries:
       url: /mekingeers-chopper-shuffle.html
       output: web, pdf
 
-    - title: SOON! Titanium Bar shuffle
-      url:
-      output: web, pdf
-
       subfolders:
         - title: WOTLK - Profession Shuffle Page
           output: web
