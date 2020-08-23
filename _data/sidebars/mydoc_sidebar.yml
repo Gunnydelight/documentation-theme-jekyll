@@ -217,25 +217,28 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Samadan's Super Bracer Shuffle
-      url: /bfa-bracer-shuffle.html
-      output: web, pdf
-
     - title: Anchor Weed shuffle
       url: /bfa-anchor-weed-shuffle.html
-      output: web, pdf
-
-    - title: Veiled Crystals via Inscription
-      url: /bfa-inscription-veiled-shuffle.html
       output: web, pdf
 
     - title: SOON! BFA Expulsom shuffle
       url:
       output: web, pdf
 
-
     - title: Inscription Milling shuffle
       url: /bfa-inscription-milling-shuffle.html
+      output: web, pdf
+
+    - title: Monelite Ore Prospecting shuffle
+      url: /bfa-monelite-ore-prospecting-shuffle.html
+      output: web, pdf
+
+    - title: Samadan's Super Bracer Shuffle
+      url: /bfa-bracer-shuffle.html
+      output: web, pdf
+
+    - title: Veiled Crystals via Inscription
+      url: /bfa-inscription-veiled-shuffle.html
       output: web, pdf
 
       #    - title: Git collaboration
@@ -252,46 +255,6 @@ entries:
               output: web, pdf
 
             - title: SOON! BFA Alchemy shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Blacksmith shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Cooking shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Enchanting shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Engineering shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Engineering shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Inscription shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Tailoring shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Leatherworking shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Jewelcrafting shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Expulsom shuffle
               url:
               output: web, pdf
 
