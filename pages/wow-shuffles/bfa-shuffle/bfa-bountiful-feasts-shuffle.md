@@ -10,7 +10,7 @@ folder: wow-shuffles
 ---
 
 # Overview
-{% include tip.html content="You can earn regular gold with this cooking recipe if you can get your mats cheap. it is a competitive market - patience is keey here!"%}
+{% include tip.html content="You can earn regular gold with this cooking recipe if you can get your mats cheap. it is a competitive market - patience is key here!"%}
 
 ## Google Sheets calculator
 I am sharing Canadia_TV's **Google Sheets** _(Excel.xls)_ to allow users to manipulate and pivot data as it varies server to server here:
@@ -35,7 +35,7 @@ Here is a list of the item's needed in the shuffle:
 |Redtail Loach|[Direct WOWHEAD Link](https://www.wowhead.com/item=152549/redtail-loach).|
 |Frenzied Fangtooth|[Direct WOWHEAD Link](https://www.wowhead.com/item=152545/frenzied-fangtooth).|
 |Stringy Loins|[Direct WOWHEAD Link](https://www.wowhead.com/item=154897/stringy-loins).|
-|Meaty Haunch|[Direct WOWHEAD Link](https://www.wowhead.com/item=154898/meaty-haunch.|
+|Meaty Haunch|[Direct WOWHEAD Link](https://www.wowhead.com/item=154898/meaty-haunch).|
 |Kul Tiramisu|[Direct WOWHEAD Link](https://www.wowhead.com/item=154881/kul-tiramisu).|
 |Mon'Dazi|[Direct WOWHEAD Link](https://www.wowhead.com/item=154885/mondazi).|
 
@@ -43,9 +43,7 @@ Here is a list of the item's needed in the shuffle:
 In order to do this shuffle you must:
 
 * Be level 110 to learn BFA Cooking. For Alliance, you can learn [here](https://www.wowhead.com/spell=264646) and for Horde, you can learn [here](https://www.wowhead.com/spell=265817).
-* Be...
-* Profession of...
-* What else?
+* Earn 150 cooking using this [power leveling guide](https://www.wow-professions.com/guides/wow-cooking-leveling-guide).
 
 ## Step by Steps explanation
 In order to be able to do this shuffle, you must do the following:
