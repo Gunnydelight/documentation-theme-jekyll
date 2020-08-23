@@ -3,7 +3,7 @@ title: BFA - Bountiful Feasts Shuffle
 keywords:
 last_updated: August 23, 2020
 tags: [cooking, bfa, shuffle]
-summary: "This WOW shuffle is to explain how to get... from doing the ... shuffle"
+summary: "This WOW shuffle is to explain profit margins on this cooking craft for Bountiful Feast shuffles!"
 sidebar: mydoc_sidebar
 permalink: bfa-bountiful-feasts-shuffle.html
 folder: wow-shuffles
