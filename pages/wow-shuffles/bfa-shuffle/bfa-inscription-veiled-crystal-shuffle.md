@@ -2,7 +2,7 @@
 title: BFA Inscription Shuffle for Veiled Crystals
 keywords:
 last_updated: Dec 1, 2019
-tags: [shuffles, bfa]
+tags: [shuffles, inscription, bfa]
 summary: "This WOW shuffle is to explain how to get Veiled Crystals from doing this Inscription shuffle from Tr4xGaming"
 sidebar: mydoc_sidebar
 permalink: bfa-inscription-veiled-shuffle.html
