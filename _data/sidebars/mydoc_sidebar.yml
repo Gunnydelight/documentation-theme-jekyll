@@ -225,6 +225,10 @@ entries:
       url:
       output: web, pdf
 
+    - title: Bountiful Feasts shuffle
+      url: /bfa-bountiful-feasts-shuffle.html
+      output: web, pdf
+
     - title: Inscription Milling shuffle
       url: /bfa-inscription-milling-shuffle.html
       output: web, pdf
