@@ -24,7 +24,7 @@ Here is a list of the item's that you can earn:
 |Item|URL|
 |-------|--------|
 |Alchemical Catalyst|[Direct WOWHEAD Link](https://www.wowhead.com/spell=156587/alchemical-catalyst).|
-|Stone of Wind trinket|[Direct WOWHEAD Link](https://www.wowhead.com/item=122601/stone-of-wind?bonus=0#reagent-for).|
+|Stone of Wind trinket|[Direct WOWHEAD Link](https://www.wowhead.com/item=122601/stone-of-wind?bonus=0#created-by-spell).|
 
 ## Items involved in the Shuffle
 
