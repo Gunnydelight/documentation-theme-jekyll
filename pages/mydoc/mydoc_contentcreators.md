@@ -15,25 +15,27 @@ folder: mydoc
 Relevant gold farming information you'd like publicized consisting of:
 
 ```
-1.  Profession Gold increasing Shuffles
-2.  Extensive/Complete TSM Groups (with or without Operations)
-3.  Herb and/or Mining Routes with screenshots (may remove this later, not sure... undecided)
-4.  PreCaged Pet World goldfarms
-5.  BOE Mount Farms
+1.  Warcraft Gold making Shuffles including Vendor or Professions.
+2.  Shadowlands and Old World Group/Multibox Gold farms.
+3.  World Pet Farms.
+4.  BOE Mount Farms.
+5.  Herb and/or Mining Routes.
+6.  Completed TSM4 4.10 Groups (with or without Operations, up to you!).
+7.  Goldmaking helpful website and tools.
 ```
 
 The way your information will be presented will follow the template in the completed guides on this site which can be located [here](https://gunnydelight.github.io/mozzletoff-wow-goldfarm-site/example.html)
 
 ## What is the Twitch requirements to get listed on this website??
-* Twitch Affiliate+ or Partner. This baseline shows a commit to being a serious Content Creator and not a temporary fleeting decision to do Gold Farm content.
-* Still currently streaming or posting Gold Farm content _(does NOT need to be dedicated)_.
-* Breaks are Okay _(AND HEALTHY)_, 5 month of no content will likely result in a delisting.
+* Twitch Affiliate+ or Partner. This baseline shows a commit to being a serious Content Creator and not a temporary fleeting decision.
+* Still currently streaming or posting Gold Farm content _(does **NOT** need to be dedicated)_.
+* Breaks are Okay _(AND HEALTHY)_, 6 month+ of no Content will likely result in a delisting from Twitch. Just make sure if/when you decide you come back to contact me on any of the socials above to be added back in.
 
 ## What is the YouTube requirements to get listed on this website??
 * 300+ Subscribers
-* 10+ Videos
-* Cover Goldfarm Content!
-* No expire to remove URL's from YouTube Content Creators like Twitch requirement above. As as long as the information covered in the VODs stay relevant to current WOW content.
+* 20+ Videos
+* Covering Goldfarm or gold making relevant content!
+* No expire to remove URL's from YouTube Content Creators like Twitch requirement above. As as long as the information covered in the VODs stay relevant to current WOW content, you'll stay there as a libary source of video's that people may use.
 
 ## Mozzle, why haven't you already show cased my work?!
 It is impossible _(so I'm finding out)_ to keep in constant **"know"** of who is working on Gold Farm content. Just reach out to me and ask!
@@ -44,7 +46,7 @@ I'd like to think I'm approachable. I'm ensuring there is no "gate keeping" when
 Yes, I would need an Google Sheet _(or alternative spreadsheet online hosted)_ to host. I would then add your social media's to the bottom of that content page
 
 ## I'm a Gold Farming Content Creator on Twitch & Youtube, Why havent you added me yet??
-It is impossible _(so I'm finding out)_ to keep in constant **"know"** of who is working on Gold Farm content. Just reach out to me and ask!
+It is impossible _(so I'm finding out)_ to keep in constant **"know"** of who is working on Gold Farm content. Just reach out to me and ask. No gate keeping, just meet the requirements mentioned above.
 
 ## Feedback
 Along the top nav right is your way to contact me by clicking on **Feedback**.
