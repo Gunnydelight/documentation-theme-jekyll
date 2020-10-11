@@ -386,7 +386,7 @@ entries:
     output: web, pdf
 
     folderitems:
-      - title: TSM Introduction & Overview
+      - title: TSM Introduction Overview
         url: /introduction-to-mozzles-tsm.html
         output: web, pdf
 
