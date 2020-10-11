@@ -5,7 +5,7 @@ last_updated: Feb 23, 2020
 tags: [burning crusade, outland, alchemy, transmute]
 summary: "This WOW shuffle is to explain the cost break down for creating Primal Might for raw mats to sell or create expensive craftable XMOG for profit"
 sidebar: mydoc_sidebar
-permalink: primal-might-shuffle.html
+permalink: /bc-primal-might-shuffle.html
 folder: wow-shuffles
 ---
 

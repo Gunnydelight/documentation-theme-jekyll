@@ -5,7 +5,7 @@ last_updated: October 24, 2019
 tags: [shuffles, bfa]
 summary: "This WOW shuffle by SamadanPlaysWOW is to explain how to get Expulsom, Umbra Shard & Veiled Crystal from doing the tailoring bracer shuffle"
 sidebar: mydoc_sidebar
-permalink: bfa-bracer-shuffle.html
+permalink: /bfa-bracer-shuffle.html
 folder: wow-shuffles
 ---
 

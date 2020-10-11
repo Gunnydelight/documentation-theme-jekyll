@@ -5,7 +5,7 @@ last_updated: March 15, 2020
 tags: [cataclsym, truegold, shuffle, alchemy, transmute]
 summary: "This WOW shuffle is to explain the cost break down for creating Trugold for raw mats to sell or create expensive craftable XMOG for profit"
 sidebar: mydoc_sidebar
-permalink: /truegold-shuffle.html
+permalink: /cata-truegold-shuffle.html
 folder: wow-shuffles
 ---
 

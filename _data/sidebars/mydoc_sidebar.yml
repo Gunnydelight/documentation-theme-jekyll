@@ -54,7 +54,7 @@ entries:
       type:
 
     - title: Classic - Thick Leather vendor shuffle
-      url: /thick-leather-vendor-shuffle.html
+      url: /classic-thick-leather-vendor-shuffle.html
       output: web, pdf
       type:
 
@@ -72,7 +72,7 @@ entries:
     folderitems:
 
     - title: Primal Might shuffle
-      url: /primal-might-shuffle.html
+      url: /bc-primal-might-shuffle.html
       output: web, pdf
 
       subfolders:
@@ -89,7 +89,7 @@ entries:
     folderitems:
 
     - title: Mekgineer's Chopper shuffle
-      url: /mekingeers-chopper-shuffle.html
+      url: /wotlk-mekingeers-chopper-shuffle.html
       output: web, pdf
 
       subfolders:
@@ -106,11 +106,11 @@ entries:
     folderitems:
 
       - title: Truegold shuffle
-        url: /truegold-shuffle.html
+        url: /cata-truegold-shuffle.html
         output: web, pdf
 
       - title: Vial of the Sands shuffle
-        url: /vial-of-the-sands-shuffle.html
+        url: /cata-vial-of-the-sands-shuffle.html
         output: web, pdf
 
       - title: Titanium Bar and Titan Steel shuffle
@@ -131,19 +131,19 @@ entries:
 
     folderitems:
     - title: Living Steel shuffle
-      url: mop-living-steel-shuffle.html
+      url: /mop-living-steel-shuffle.html
       output: web, pdf
 
     - title: Sky Golem shuffle
-      url: mop-sky-golem-shuffle.html
+      url: /mop-sky-golem-shuffle.html
       output: web, pdf
 
     - title: Depleted Kyparium Rocket shuffle
-      url: /depleted-kyparium-rocket-shuffle.html
+      url: /mop-depleted-kyparium-rocket-shuffle.html
       output: web, pdf
 
     - title: Geosynchronous World Spinner shuffle
-      url: /geosynchronous-world-spinner.html
+      url: /mop-geosynchronous-world-spinner.html
       output: web, pdf
 
     - title: Panther Mounts shuffle
@@ -176,11 +176,11 @@ entries:
 
     folderitems:
     - title: Sorcerous Earth shuffle
-      url: /sorcerous-earth-shuffle.html
+      url: /wod-sorcerous-earth-shuffle.html
       output: web, pdf
 
     - title: Card of Omens shuffle
-      url: /card-of-omens-shuffle.html
+      url: /wod-card-of-omens-shuffle.html
       output: web, pdf
 
     - title: Alchemy Trinket vendor shuffle
@@ -200,8 +200,8 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Pending Content soon!
-      url:
+    - title: Blood of Sargeras shuffle
+      url: /legion-blood-of-sargeras-shuffle.html
       output: web, pdf
 
       subfolders:

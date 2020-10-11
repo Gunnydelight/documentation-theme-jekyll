@@ -5,7 +5,7 @@ last_updated: Aug 23, 2020
 tags: [smelt, mining, bfa, ore]
 summary: "This WOW shuffle is jewelcrafters wanting to prospect Monelite Ore at a profit into their BFA gem shuffles"
 sidebar: mydoc_sidebar
-permalink: bfa-monelite-ore-prospecting-shuffle.html
+permalink: /bfa-monelite-ore-prospecting-shuffle.html
 folder: wow-shuffles
 ---
 

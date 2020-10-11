@@ -5,7 +5,7 @@ last_updated: Mar 15, 2020
 tags: [example]
 summary: "This WOW shuffle is to explain how to get raw gold from doing the Thick Leather vendor shuffle in WOW Classic."
 sidebar: mydoc_sidebar
-permalink: /thick-leather-vendor-shuffle.html
+permalink: /classic-thick-leather-vendor-shuffle.html
 folder: wow-shuffles
 ---
 

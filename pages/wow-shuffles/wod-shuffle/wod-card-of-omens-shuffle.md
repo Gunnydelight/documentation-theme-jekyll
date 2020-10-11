@@ -5,7 +5,7 @@ last_updated: July 21, 2020
 tags: [shuffles, bfa, alchemy]
 summary: "This simple WOW shuffle is to explain how to get raw gold (with a little big of RNG gambling fun) with this WOD Shuffle for Card of Omens"
 sidebar: mydoc_sidebar
-permalink: /card-of-omens-shuffle.html
+permalink: /wod-card-of-omens-shuffle.html
 folder: wow-shuffles
 ---
 

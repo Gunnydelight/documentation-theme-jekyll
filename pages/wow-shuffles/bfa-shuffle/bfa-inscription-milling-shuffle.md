@@ -5,7 +5,7 @@ last_updated: August 21, 2020
 tags: [inscription, bfa, milling]
 summary: "This WOW shuffle is to explain the cost break down for buying the mats of the auction house are worth milling into BFA inscription shuffling"
 sidebar: mydoc_sidebar
-permalink: bfa-inscription-milling-shuffle.html
+permalink: /bfa-inscription-milling-shuffle.html
 folder: wow-shuffles
 ---
 

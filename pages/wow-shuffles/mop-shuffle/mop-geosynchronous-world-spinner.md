@@ -5,7 +5,7 @@ last_updated: March 20, 2020
 tags: [wod, mount]
 summary: "This WOW shuffle is to explain how to get the Depleted-Kyparium Rocket from doing the shuffle and finding areas to maximize your profit for the cost of mats."
 sidebar: mydoc_sidebar
-permalink: /geosynchronous-world-spinner.html
+permalink: /mop-geosynchronous-world-spinner.html
 folder: wow-shuffles
 ---
 

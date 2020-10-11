@@ -5,7 +5,7 @@ last_updated: July 14, 2020
 tags: [shuffles, bfa, alchemy]
 summary: "This WOW shuffle is great for the WOD Garrison farmers. Alt armies unite! This shuffle explains how to get various Sorcerous elements to make Sorcerous Earths and Alchemical Catalyst Items."
 sidebar: mydoc_sidebar
-permalink: /sorcerous-earth-shuffle.html
+permalink: /wod-sorcerous-earth-shuffle.html
 folder: wow-shuffles
 ---
 

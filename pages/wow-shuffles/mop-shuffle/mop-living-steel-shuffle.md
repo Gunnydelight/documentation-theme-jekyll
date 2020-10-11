@@ -1,5 +1,5 @@
 ---
-title: MOP - Living Steel Shuffles (Riddle + Daily Xmute)
+title: MOP - Living Steel Shuffles
 keywords:
 last_updated: December 13, 2019
 tags: [shuffles, mop]

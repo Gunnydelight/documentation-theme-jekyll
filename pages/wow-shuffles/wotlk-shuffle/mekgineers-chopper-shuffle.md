@@ -5,7 +5,7 @@ last_updated: March 21, 2020
 tags: [shuffle]
 summary: "This WOW shuffle is to explain how to print money crafting Mekgineer's Chopper via this shuffle"
 sidebar: mydoc_sidebar
-permalink: /mekingeers-chopper-shuffle.html
+permalink: /wotlk-mekingeers-chopper-shuffle.html
 folder: wow-shuffles
 ---
 

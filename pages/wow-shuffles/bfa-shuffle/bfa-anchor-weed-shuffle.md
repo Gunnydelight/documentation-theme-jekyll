@@ -5,7 +5,7 @@ last_updated: October 21, 2019
 tags: [example]
 summary: "This WOW shuffle is to explain how to maximize profits with Anchor Weed into BFA Alchy trinkets & Flasks."
 sidebar: mydoc_sidebar
-permalink: bfa-anchor-weed-shuffle.html
+permalink: /bfa-anchor-weed-shuffle.html
 folder: wow-shuffles
 ---
 
