@@ -254,22 +254,22 @@ entries:
               url:
               output: web, pdf
 
-            - title: SOON! BFA Anchor Weed shuffle
-              url:
-              output: web, pdf
-
-            - title: SOON! BFA Pet shuffle
-              url:
-              output: web, pdf
-
-
   - title: Shadowlands Shuffles
     output: web, pdf
 
     folderitems:
-      - title: Soon! >:)
+      - title: Soon! Relics of the Past... JK >:)
         url:
         output: web, pdf
+
+        subfolders:
+          - title: SL - Profession Shuffle page
+            output: web
+            subfolderitems:
+
+              - title: Content Soon!
+                url:
+                output: web
 
   - title: Shadowlands MB/Goup farms
     output: web
@@ -278,15 +278,6 @@ entries:
       - title: SOON! Introduction Overview
         url:
         output: web
-
-        subfolders:
-          - title: Current Popular Retail MB Farms
-            output: web
-            subfolderitems:
-
-              - title: Content Soon!
-                url:
-                output: web
 
   - title: World MB/Group farms
     output: web
@@ -340,31 +331,31 @@ entries:
     output: web
     folderitems:
 
-      - title: Soon! Intro for Pet Solo/Group farms
+      - title: SOON! Intro for Pet Solo/Group farms
         url:
         output: web
 
-      - title: Soon! Emerald Whelpling
+      - title: SOON! Emerald Whelpling
         url:
         output: web
 
-      - title: Soon! Bronze Whelpling
+      - title: SOON! Bronze Whelpling
         url:
         output: web
 
-      - title: Soon! Crimson Whelpling
+      - title: SOON! Crimson Whelpling
         url:
         output: web
 
-      - title: Soon! Dark Whelpling
+      - title: SOON! Dark Whelpling
         url:
         output: web
 
-      - title: Soon! Azure Whelpling
+      - title: SOON! Azure Whelpling
         url:
         output: web
 
-      - title: Soon! Filthling
+      - title: SOON! Filthling
         url:
         output: web
 
@@ -383,8 +374,11 @@ entries:
     output: web, pdf
 
     folderitems:
+      - title: SOON! Introduction Overview
+        url:
+        output: web
 
-      - title: SOON! Herbing and Mining Routes Overview
+      - title: SOON! Herbing & Mining Routes Overview
         url:
         output: web, pdf
 
@@ -392,26 +386,26 @@ entries:
     output: web, pdf
 
     folderitems:
-      - title: Mozzle's TSM 4 Groups & Operations Overview
+      - title: Mozzle's TSM4 Groups & Op's
         url: /introduction-to-mozzles-tsm.html
         output: web, pdf
 
-      - title: Mozzletoff's TSM Groups & Operations
+      - title: Mozzle's TSM4 Groups & Op's
         url: /tsm-four-groups-and-operations.html
         output: web, pdf
 
-      - title: Soon! 4.10 Complete Goups & Operations
+      - title: SOON! 4.10 TSM4 Goups & Op's
         url: /tsm-four-groups-and-operations.html
         output: web, pdf
 
-      - title: Soon! Shadowlands Groups & Operations
+      - title: SOON! Shadowlands Groups & Op's
         url: /tsm-four-groups-and-operations.html
         output: web, pdf
 
-  - title: Goldfarm helpful websites
+  - title: Goldmaking helpful websites
     output: web
     folderitems:
 
-      - title: Soon! Helpful URLs
+      - title: SOON! Helpful URLs
         url:
         output: web
