@@ -3,7 +3,7 @@ title: Legion - Blood of Sargeras Shuffle
 keywords:
 last_updated: Oct 10, 2020
 tags: [legion, vendor]
-summary: "This WOW shuffle is to explain how to time effectively earn Blood of Sargeras through several means and what to spend them on"
+summary: "This WOW shuffle is to explain how to use the least amount of time (2 min) to effectively earn Blood of Sargeras which opens a lot of gold making paths to the vendor and professions."
 sidebar: mydoc_sidebar
 permalink: /legion-blood-of-sargeras-shuffle.html
 folder: wow-shuffles
@@ -83,7 +83,7 @@ When doing this farms, be aware of the following:
 * Earn Revered with The Wardens with one toon. Create a Heirloom shoulders. Equip the Boon. Mail off to your alts!
 * As a multiboxer, this is one of my niche farms I use to create a lot of Legion R43 crafts and Dreamleaf purchases for no effort.
 * Earn the R3 when Crafting to save yourself mats for Tailoring, Blacksmithing, Leatherworking etc
-* Pair up this farm with Daily profession cooldowns and honestly... you're set. Do that for a month and you'll be surprised at the collection you begin to gather. 
+* Pair up this farm with Daily profession cooldowns and honestly... you're set. Do that for a month and you'll be surprised at the collection you begin to gather.
 
 ## Reference Links
 [BregVid's - Easy way to get Blood of Sargeras](https://youtu.be/kv5aUBps8v8)
