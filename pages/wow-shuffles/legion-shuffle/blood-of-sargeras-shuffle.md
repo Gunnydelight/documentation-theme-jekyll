@@ -10,7 +10,7 @@ folder: wow-shuffles
 ---
 
 # Overview
-{% include tip.html content="You can earn roughly _(dependant on region & server)_ between X and Y amount of profit each flip."%}
+{% include tip.html content="This is by far one of my favorite, spend the least amount of time and make a silly amount of profits type farm. I log in, i aoe kill these pleb mobs. I loot a bunch of Blood of Sargeras. I log out. It is that simple and the shuffling I get for Blood of Sargeras into multiple types of crafts or to the vendor makes this honestly one of my faovirte farms as my professions is R3 across for legion which isn't a short task to get."%}
 
 ## What can you earn
 
