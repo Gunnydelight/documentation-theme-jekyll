@@ -69,7 +69,7 @@ In order to be able to do this shuffle, you must do the following:
 
 ```
 1.  Log in to your single account or multibox accounts.
-2.  Run your toons or multibox accounts to the Seagulls.
+2.  Run your toons or multibox accounts to the Seagulls Rock in Azsuna.
 2.  Equip your Boon of the blood hunter shoulders.
 3.  Group up the seagull and aoe clear them.
 4.  Loot your Bloodhunter's Quarry on all your toons
@@ -81,8 +81,8 @@ In order to be able to do this shuffle, you must do the following:
 When doing this farms, be aware of the following:
 
 * Earn Revered with The Wardens with one toon. Create a Heirloom shoulders. Equip the Boon. Mail off to your alts!
-* As a multiboxers, this is one of my niche farms I use to create a lot of Legion R43 crafts and Dreamleaf purchases for no effort.
-* 3
+* As a multiboxer, this is one of my niche farms I use to create a lot of Legion R43 crafts and Dreamleaf purchases for no effort.
+* Earn the R3 when Crafting to save yourself mats for Tailoring, Blacksmithing, Leatherworking etc
 
 ## Reference Links
 [BregVid's - Easy way to get Blood of Sargeras](https://youtu.be/kv5aUBps8v8)
@@ -90,3 +90,6 @@ When doing this farms, be aware of the following:
 [Bloodhunter's Quarry](https://www.wowhead.com/item=140227/bloodhunters-quarry)
 
 [BregsVids Youtube](https://www.youtube.com/channel/UCxJ5Vi8KVizRBsOMXVWmNDQ)
+
+[Rubiksguy YouTube - Original finder](https://www.youtube.com/channel/UCeFzj-Za8MhD64UHIvfI6dg) TY!
+
