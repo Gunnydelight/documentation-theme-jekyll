@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Introduction
+  - title: Website & Author Introduction
     output: web, pdf
     folderitems:
 
@@ -44,7 +44,7 @@ entries:
         type:
 
 
-  - title: WOW Vanilla Shuffles
+  - title: Vanilla Shuffles
     output: web, pdf
     folderitems:
 
@@ -67,7 +67,7 @@ entries:
               url:
               output: web
 
-  - title: WOW BC Shuffles
+  - title: BC Shuffles
     output: web, pdf
     folderitems:
 
@@ -84,7 +84,7 @@ entries:
               url:
               output: web
 
-  - title: WOW WOTLK Shuffles
+  - title: WOTLK Shuffles
     output: web, pdf
     folderitems:
 
@@ -101,7 +101,7 @@ entries:
               url:
               output: web
 
-  - title: WOW Cataclysm Shuffles
+  - title: Cataclysm Shuffles
     output: web, pdf
     folderitems:
 
@@ -126,7 +126,7 @@ entries:
                 url:
                 output: web
 
-  - title: WOW MOP Shuffles
+  - title: MOP Shuffles
     output: web, pdf
 
     folderitems:
@@ -171,7 +171,7 @@ entries:
               url:
               output: web
 
-  - title: WOW WOD Shuffles
+  - title: WOD Shuffles
     output: web, pdf
 
     folderitems:
@@ -196,7 +196,7 @@ entries:
               url:
               output: web
 
-  - title: WOW Legion Shuffles
+  - title: Legion Shuffles
     output: web, pdf
 
     folderitems:
@@ -213,16 +213,12 @@ entries:
               url:
               output: web
 
-  - title: WOW BFA Shuffles
+  - title: BFA Shuffles
     output: web, pdf
 
     folderitems:
     - title: Anchor Weed shuffle
       url: /bfa-anchor-weed-shuffle.html
-      output: web, pdf
-
-    - title: SOON! BFA Expulsom shuffle
-      url:
       output: web, pdf
 
     - title: Bountiful Feasts shuffle
@@ -258,36 +254,45 @@ entries:
               url:
               output: web, pdf
 
-            - title: SOON! BFA Alchemy shuffle
+            - title: SOON! BFA Anchor Weed shuffle
               url:
               output: web, pdf
 
-  - title: TSM 4 Groups and OP's
+            - title: SOON! BFA Pet shuffle
+              url:
+              output: web, pdf
+
+
+  - title: Shadowlands Shuffles
     output: web, pdf
 
     folderitems:
-    - title: Mozzle's TSM 4 Groups & Operations Overview
-      url: /introduction-to-mozzles-tsm.html
-      output: web, pdf
+      - title: Soon! >:)
+        url:
+        output: web, pdf
 
-    - title: Mozzletoff's TSM Groups & Operations
-      url: /tsm-four-groups-and-operations.html
-      output: web, pdf
-
-  - title: Herb | Mining Farming Routes
-    output: web, pdf
-
-    folderitems:
-
-    - title: SOON! Herbing and Mining Routes Overview
-      url:
-      output: web, pdf
-
-  - title: Multibox | Group Goldfarms
+  - title: Shadowlands MB/Goup farms
     output: web
     folderitems:
 
-    - title: SOON! Introduction for Multibox | Group farm Overview
+      - title: SOON! Introduction Overview
+        url:
+        output: web
+
+        subfolders:
+          - title: Current Popular Retail MB Farms
+            output: web
+            subfolderitems:
+
+              - title: Content Soon!
+                url:
+                output: web
+
+  - title: World MB/Group farms
+    output: web
+    folderitems:
+
+    - title: SOON! Introduction Overview
       url:
       output: web
 
@@ -303,28 +308,35 @@ entries:
       url:
       output: web
 
-    - title: SOON! Stormsong Valley - Boat/x 4x4
+    - title: SOON! Stormsong Valley - Boat
       url:
       output: web
 
-    - title: SOON! Drustvar - Boars 2x4 Farm
+    - title: SOON! Drustvar - Boars Farm
       url:
       output: web
 
-    - title: SOON! Nazjatar 2x4 Farm
+    - title: SOON! Nazjatar Farm
       url:
       output: web
 
-      subfolders:
-      - title: Current Popular Retail MB Farms
-        output: web
-        subfolderitems:
+    - title: SOON! Primals Farm
+      url:
+      output: web
 
-        - title: Content Soon!
-          url:
-          output: web
+    - title: SOON! Volatiles Farm
+      url:
+      output: web
 
-  - title: Pet World Goldfarms
+    - title: SOON! Eternals Farm
+      url:
+      output: web
+
+    - title: SOON! Sumptuous Fur Farm
+      url:
+      output: web
+
+  - title: World Pet farms
     output: web
     folderitems:
 
@@ -332,15 +344,71 @@ entries:
         url:
         output: web
 
-  - title: Mount Goldfarms
-    output: web
-    folderitems:
-
-      - title: Soon! Intro for Mount goldfarms
+      - title: Soon! Emerald Whelpling
         url:
         output: web
 
-  - title: Goldfarm Helpful websites
+      - title: Soon! Bronze Whelpling
+        url:
+        output: web
+
+      - title: Soon! Crimson Whelpling
+        url:
+        output: web
+
+      - title: Soon! Dark Whelpling
+        url:
+        output: web
+
+      - title: Soon! Azure Whelpling
+        url:
+        output: web
+
+      - title: Soon! Filthling
+        url:
+        output: web
+
+  - title: World Mount farms
+    output: web
+    folderitems:
+
+      - title: SOON! Introduction Overview
+        url:
+        output: web
+
+      - title: SOON! BFA World Mounts
+        url:
+        output: web
+  - title: Herb | Mining Farming Routes
+    output: web, pdf
+
+    folderitems:
+
+      - title: SOON! Herbing and Mining Routes Overview
+        url:
+        output: web, pdf
+
+  - title: TSM 4 Groups and OP's
+    output: web, pdf
+
+    folderitems:
+      - title: Mozzle's TSM 4 Groups & Operations Overview
+        url: /introduction-to-mozzles-tsm.html
+        output: web, pdf
+
+      - title: Mozzletoff's TSM Groups & Operations
+        url: /tsm-four-groups-and-operations.html
+        output: web, pdf
+
+      - title: Soon! 4.10 Complete Goups & Operations
+        url: /tsm-four-groups-and-operations.html
+        output: web, pdf
+
+      - title: Soon! Shadowlands Groups & Operations
+        url: /tsm-four-groups-and-operations.html
+        output: web, pdf
+
+  - title: Goldfarm hvelpful websites
     output: web
     folderitems:
 
