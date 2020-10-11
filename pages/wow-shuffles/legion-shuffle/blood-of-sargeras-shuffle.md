@@ -3,7 +3,7 @@ title: Legion - Blood of Sargeras Shuffle
 keywords:
 last_updated: Oct 10, 2020
 tags: [legion, vendor]
-summary: "This WOW shuffle is to explain how to use the least amount of time (2 min) to effectively earn Blood of Sargeras which opens a lot of gold making paths to the vendor and professions."
+summary: "This WOW shuffle is to explain how to use the least amount of time (2 min) to effectively earn Blood of Sargeras which opens a lot of gold making paths to the BoS vendor and Legion craftable professions."
 sidebar: mydoc_sidebar
 permalink: /legion-blood-of-sargeras-shuffle.html
 folder: wow-shuffles
