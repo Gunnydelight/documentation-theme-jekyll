@@ -43,7 +43,7 @@ Here is a list of the item's that you can earn:
 |x10 Leystone Ore - Vendor|[Direct WOWHEAD Link](https://www.wowhead.com/item=123918/leystone-ore).|
 |x10 Stonehide Leather - Vendor|[Direct WOWHEAD Link](https://www.wowhead.com/item=124113/stonehide-leather).|
 |x10 Stormscale - Vendor|[Direct WOWHEAD Link](https://www.wowhead.com/item=124115/stormscale).|
-|x10 Shal'forei Silk|[Direct WOWHEAD Link](https://www.wowhead.com/item=124437/shaldorei-silk).|
+|x10 Shal'forei Silk - Vendor|[Direct WOWHEAD Link](https://www.wowhead.com/item=124437/shaldorei-silk).|
 |x20 Unbroken Claw - Vendor|[Direct WOWHEAD Link](https://www.wowhead.com/item=124438/unbroken-claw).|
 |x20 Unbroken Tooth - Vendor|[Direct WOWHEAD Link](https://www.wowhead.com/item=124439/unbroken-tooth).|
 |Bloodhunter's Quarry - Vendor|[Direct WOWHEAD Link](https://www.wowhead.com/item=140227/bloodhunters-quarry).|
