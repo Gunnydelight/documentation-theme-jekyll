@@ -403,8 +403,12 @@ entries:
         output: web, pdf
 
   - title: Goldmaking helpful websites
-    output: web
+    output: web, pdf
     folderitems:
+
+      - title: Profession Cooldown Macro Groups
+        url: /profession-cooldown-macro-groups.html
+        output: web, pdf
 
       - title: SOON! Helpful URLs
         url:
